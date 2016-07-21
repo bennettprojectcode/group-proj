@@ -1,0 +1,67 @@
+body
+    { text-align: center;
+    background-color: #DBB923;
+    }
+
+.menu
+    { 
+      width: 10%; 
+      font-family: 'Waiting for the Sunrise', cursive;
+      font-size: 20pt; 
+      color: white;
+      display: inline-block; 
+        text-align: center;
+        padding:5px;
+    }
+#header  
+    { 
+      width: auto;
+      display: inline-block; 
+      font-family: 'Delius Unicase', cursive;
+      font-size: 55pt;   
+      height: auto;
+      color:#465362; 
+        text-align: center;
+        padding: 5px;
+    }
+    
+    
+td {
+    width:105px; 
+    height: 80px;
+   }
+    
+table, th, td 
+   {
+    text-align: center; 
+    }
+
+table {
+    border-spacing: 15px;
+    text-align: center;
+    width:86%; 
+    margin:auto;
+}
+
+#caption
+    { font-size: 45pt; 
+    font-family: 'Delius Unicase', cursive;
+    color: white;
+        }
+#table
+    {text-align: center;
+        margin:auto;
+}
+        
+
+figcaption
+{color: white;
+ font-family: 'Waiting for the Sunrise', cursive;
+ font-size: 15pt;
+}
+
+th
+{color: #1B3B6F;
+font-size: 20pt;
+ font-family: 'Waiting for the Sunrise', cursive;
+}

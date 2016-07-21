@@ -1,0 +1,41 @@
+body
+    {background-color: #DBB923;
+    text-align: center;
+    }
+
+/*make sure all header fonts match*/
+
+#header  
+    { 
+      width: auto;
+      display: inline-block; 
+      font-family: 'Delius Unicase', cursive; 
+      font-size: 55pt;   
+      height: auto;
+      color:#465362; 
+        text-align: center;
+        padding: 5px;
+        margin: 0px;
+    }
+
+.menu
+    { 
+      width: 10%; 
+      font-family: 'Waiting for the Sunrise', cursive; 
+      font-size: 20pt; 
+      color: white;
+      display: inline-block; 
+      text-align: center;
+      padding:5px;
+      
+    }
+
+#homeimage 
+    {
+     width: 100%;
+    
+    }
+    
+#homeimage img {
+    width:100%;
+}
